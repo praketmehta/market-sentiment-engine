@@ -5,7 +5,7 @@ A natural language processing pipeline designed to analyze real-time financial n
 ## Features
 * **Real-Time Data Extraction:** Integrates with the Finnhub API to fetch the latest financial headlines for specific stock tickers.
 * **NLP Sentiment Scoring:** Utilizes the VADER (Valence Aware Dictionary and sEntiment Reasoner) library to calculate compound polarity scores (Positive, Negative, Neutral).
-* **Automated Reporting:** Aggregates sentiment data and exports it into a structured CSV format for further dashboarding or time-series analysis.
+* **Automated Reporting:** Aggregates sentiment data and exports it into a structured CSV format for further dashboarding or time-series analysis according to the present requirement.
 
 ## Tech Stack
 * **Python 3.x**
